@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+lancedb
+pandas
+openai
+python-multipart
+requests
+python-dotenv
+aiofiles
